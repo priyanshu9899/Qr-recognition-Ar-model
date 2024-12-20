@@ -14,7 +14,7 @@ This project is a web application for managing and viewing 3D models using Djang
 
 ---
 
-## Video Link :[Watch here](https://www.loom.com/share/e1bc399aaa9547c8a9b05ec021f39913?sid=11a21c6d-ffe0-4d6d-be1b-54f39304ef98)
+## Video Link :[Watch here](https://www.loom.com/share/e1bc399aaa9547c8a9b05ec021f39913?sid=feeddf87-b9e0-404a-9ccc-820dd4a33abc)
 
 ---
 
