@@ -8,7 +8,7 @@ This project is a web application for managing and viewing 3D models using Djang
 
 - **Django Backend**: Handles file uploads, metadata storage, REST API, and API endpoints.
 - **PostgreSQL Database**: Stores metadata about 3D models (e.g., file paths, names, descriptions).
-- **React Frontend**: Fetches metadata from the API and displays the 3D models using Three.js and AR View option for mobile devices.
+- **React Frontend**: Fetches metadata from the API and displays the 3D models using Three.js .Also provides AR View option for mobile devices.
 - **File Management**: Uploads and serves 3D model files via Django's media handling.
 - **RESTful API**: Enables CRUD operations on 3D model data.
 
