@@ -164,9 +164,3 @@ This project is a web application for managing and viewing 3D models using Djang
 - **Frontend**: React, Three.js
 - **Database**: PostgreSQL
 - **Other**: Docker, Media file handling
-
----
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
